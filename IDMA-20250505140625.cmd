@@ -176,7 +176,7 @@ set _col=%_Yellow%
 )
 
 echo:                                                          
-echo:          ::: Credit by ★ Md.Firoz Kabir ★           
+echo:                 Created by  Md.Firoz Kabir            
 echo:                                                          
 echo:          ::: IDM Activator v0.7                       
 echo:                                                          
